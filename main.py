@@ -6,7 +6,7 @@ import time
 api_id = 23957413
 api_hash = "bc7d03b7a971257f13cb8cc676dabe06"
 phone = "+421952160825"
-group_id = -1002716356496
+group_id = -1002452764624
 main_user_id = 888387442
 
 call_interval = 60
@@ -87,3 +87,4 @@ async def main():
 
 if __name__ == '__main__':
     asyncio.run(main())
+
